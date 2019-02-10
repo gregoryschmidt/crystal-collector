@@ -1,4 +1,4 @@
 # Crystal Game
-https://gregoryschmidt.github.io/unit-4-game/
+https://gregoryschmidt.github.io/crystal-collector/
 
 
